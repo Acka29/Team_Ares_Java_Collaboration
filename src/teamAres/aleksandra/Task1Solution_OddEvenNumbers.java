@@ -1,6 +1,6 @@
 package teamAres.aleksandra;
 
-public class Task1Solution {
+public class Task1Solution_OddEvenNumbers {
 
     public static void main(String[] args) {
 
