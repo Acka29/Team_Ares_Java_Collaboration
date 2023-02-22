@@ -2,7 +2,7 @@ package TeamAres.Dragana;
 
 import java.util.Arrays;
 
-public class ArraySortDescending {
+public class ArraySortDescending { //
 
     public static int[] descendingArray(int[] arr) {
         for (int i = 0; i < arr.length; i++) {

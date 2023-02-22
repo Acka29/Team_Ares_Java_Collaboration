@@ -29,8 +29,6 @@ public class ArrayFindMaximum {
 
     }
 
-
-
 }
 /*
 Question1: Array - Find Maximum
